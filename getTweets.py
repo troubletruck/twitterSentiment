@@ -20,8 +20,8 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
 
-userSearch = 'SamStrake'
-ignoreTweetsFrom = 'SamStrake'
+userSearch = 'LambbChops'
+ignoreTweetsFrom = 'LambbChops'
 max_tweets = 500
 
 
